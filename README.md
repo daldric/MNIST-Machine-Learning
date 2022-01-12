@@ -1,3 +1,3 @@
-Pytorch Library within Google Colabratory
-Dillon Aldrich
-Using machine learning models to classify MNIST data
+# Dillon Aldrich
+# Pytorch Library within Google Colabratory
+# Using machine learning models to classify MNIST data
